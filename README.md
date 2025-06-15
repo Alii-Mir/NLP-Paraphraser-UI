@@ -1,3 +1,3 @@
 # NLP-Paraphraser-UI
 
-![image](https://github.com/user-attachments/assets/c9882f06-463b-4e6d-981d-6ad7246a05f4)
+![image](https://github.com/user-attachments/assets/a146bdf9-0062-46e0-be04-fbb8debe0a3a)
